@@ -1,0 +1,10 @@
+Package: UWutils
+Type: Package
+Title: AIM Data Utilities
+Version: 0.1.0
+Author: Michael J Zenz
+Maintainer: Michael J Zenz <zenz@wisc.edu>
+Description: A set of data utilities in R for UW-Madison administrative data.
+License: GNU General Public License v3.0
+Encoding: UTF-8
+LazyData: true
